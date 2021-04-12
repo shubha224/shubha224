@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShubhaBhat 
 - 👀 I’m interested in Computer Vision/Pattern recognition/Image processing related Projects
-- 🌱 I’m currently working on classification and tracking applications for Realt-time projects.
+- 🌱 I’m currently working on classification and tracking applications for Real-time projects.
 - 💞️ I’m looking to collaborate on anything that is challenging and adds value to the Computer Vision Community.
 - 📫 You can reach me at @shubha224 or shubha22@gmail.com
 
